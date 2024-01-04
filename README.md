@@ -1,0 +1,2 @@
+# Exemplos-de-Exerc-cios-utilizando-Programa-o-Funcional-em-Python
+Exemplos de programação funcional para demais interessados em aprender esse paradigma de programação. Os exemplos são de atividades solucionadas por mim e outros colegas e não necessariamente representam a melhor forma de resolver, por tal razão este repositório fica a dispor d'aqueles que quiserem colaborar deixando suas próprias soluções.
